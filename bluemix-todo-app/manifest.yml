@@ -1,0 +1,9 @@
+applications:
+- path: target/bluemix-todo-app.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: todo-pfc
+  host: todo-pfc
+  disk_quota: 1024M
+  buildpack: https://github.com/cloudfoundry/java-buildpack
