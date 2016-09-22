@@ -1,6 +1,8 @@
 about
 ================================================================================
 
+--> Disclaimer: this application is a edited version of the official version, which was developed by IBM and can be found in https://github.com/IBM-Bluemix/todo-apps <--
+
 The ToDo sample apps are meant to be simple demos of how you can take advantage
 of Bluemix and a database service.  In addition it shows how to take advantage
 of both the [built-in](https://www.ng.bluemix.net/docs/starters/rt_landing.html) and [community buildpacks](https://github.com/cloudfoundry-community/cf-docs-contrib/wiki/Buildpacks) 
